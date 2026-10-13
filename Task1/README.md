@@ -28,3 +28,9 @@ Collect the number of job postings for the following key skills using the API:
 - MySQL Server
 - PostgreSQL
 - MongoDB
+
+## Web Scraping
+
+Extract the information form the given website : https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html
+
+The data we need to scrape is the name of the programming language and average annual salary. Save the scrapped data into a file named popular-languages.csv
