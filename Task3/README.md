@@ -1,6 +1,6 @@
 # TASK 3
 
-## After cleaning the dataset, your next step is the analysis. In this stage you will become more familiar with the data set and it will start to take shape. In this assignment you will:
+### After cleaning the dataset, your next step is the analysis. In this stage you will become more familiar with the data set and it will start to take shape. In this assignment you will:
 
 1. Understand the structure of datasets and visualize distributions of key variables.
 2. Identify, handle, and analyze missing data and outliers using statistical techniques such as IQR and standard deviation thresholds.
